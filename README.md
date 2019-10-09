@@ -17,7 +17,10 @@ following the data science process for generating useful insights from the New Y
 ## Summery
 
 ## Acknowledgement
-This is the first project in the data scientist Nanodegree program from [Udacity](https://www.udacity.com)
-I found the data on [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
+* This is the first project in the data scientist Nanodegree program from [Udacity](https://www.udacity.com)
+
+* I found the data on [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
+
+* I used the [stackoverflow](www.stackoverflow.com) site to solve the problem faced me during coding
 
 
