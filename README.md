@@ -10,10 +10,13 @@ following the data science process for generating useful insights from the New Y
 ## Motivation
 
 ## Files
+1.AB_NYC_2019.csv : this file contains the data which was used in the process, it was downloaded from [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) 
+2. New York City Airbnb: This is the Jupyter Notebook which contains all of the code of the data science process with some markdown cells
 
+## Summery
 
-##Summery
-
-##Acknowledgement
+## Acknowledgement
+This is the first project in the data scientist Nanodegree program from [Udacity](https://www.udacity.com)
+I found the data on [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
 
 
