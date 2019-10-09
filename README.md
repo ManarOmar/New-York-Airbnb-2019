@@ -3,8 +3,11 @@ following the data science process for generating useful insights from the New Y
 
 ## Libraries
 1. Pandas
+
 2. Sklearn
+
 3.Seaborn
+
 4.Matplotlib
 
 ## Motivation
@@ -15,6 +18,7 @@ following the data science process for generating useful insights from the New Y
 2. New York City Airbnb: This is the Jupyter Notebook which contains all of the code of the data science process with some markdown cells
 
 ## Summery
+
 
 ## Acknowledgement
 * This is the first project in the data scientist Nanodegree program from [Udacity](https://www.udacity.com)
