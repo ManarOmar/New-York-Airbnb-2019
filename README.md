@@ -21,6 +21,6 @@ following the data science process for generating useful insights from the New Y
 
 * I found the data on [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
 
-* I used the [stackoverflow](www.stackoverflow.com) site to solve the problem faced me during coding
+* I used the [stackoverflow](https://stackoverflow.com) site to solve the problem faced me during coding
 
 
