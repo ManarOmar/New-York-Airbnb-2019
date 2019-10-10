@@ -49,4 +49,6 @@ I have followed the CRISP-DM(Cross-Industry Standard Process for Data Mining) pr
 
 * I used the [stackoverflow](https://stackoverflow.com) site to solve the problem faced me during coding
 
+this is a [blog post](https://medium.com/@manar.aljawarneh/airbnb-homes-in-new-york-52a115de9282) on medium of this project for the non technical persons
+
 
